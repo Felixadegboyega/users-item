@@ -1,0 +1,9 @@
+.bigr{
+	max-height: 95vh;
+	overflow-x: auto;
+
+}
+.bigr::-webkit-scrollbar{
+	width: 5px;
+	background-color: #ccc;
+}
